@@ -7,21 +7,21 @@
   PS: I'm all about that gradient descent in the global maxima. :D</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathbharadwaj" alt="rajathbharadwaj" /> </p>
 
-- 🔭 I’m currently working on **Getting my Medium articles approved on TDS**
+- 🔭 I’m currently working on Getting my Medium articles approved on TDS
 
-- 👯 I’m looking to collaborate on **Any and Every ML/DL project you have or want to implement**
+- 👯 I’m looking to collaborate on Any and Every ML/DL project you have or want to implement
 
-- 🤔 I’m looking for help with **Understanding the intuition behind the math behind DL & implementing paper to code**
+- 🤔 I’m looking for help with Understanding the intuition behind the math behind DL & implementing paper to code
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajathbharadwaj](https://github.com/Rajathbharadwaj)
 
 - 📝 I regulary write articles on [https://medium.com/@rajathbharadwaj/](https://medium.com/@rajathbharadwaj/)
 
-- 💬 Ask me about **Anything and everything on ML/DL/CV/NLP..... I'll help if I know, else I'll learn too. :D**
+- 💬 Ask me about Anything and everything on ML/DL/CV/NLP..... I'll help if I know, else I'll learn too. :D
 
-- 📫 How to reach me **https://www.instagram.com/rajath_bharadwaj/**
+- 📫 How to reach me https://www.instagram.com/rajath_bharadwaj/
 
-- ⚡ Fun fact **I rap and generate lyrics using DL as a hobby and create YouTube tutorials**
+- ⚡ Fun fact I rap and generate lyrics using DL as a hobby and create YouTube tutorials
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajathbharadwaj&show_icons=true" alt="rajathbharadwaj" /> </p>
 
