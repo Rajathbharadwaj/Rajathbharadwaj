@@ -7,7 +7,7 @@
   PS: I'm all about that gradient descent in the global maxima. :D</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathbharadwaj" alt="rajathbharadwaj" /> </p>
 
-- 🔭 I’m currently working on Getting my Medium articles approved on TDS
+- 🔭 I’m currently working on -
 
 - 👯 I’m looking to collaborate on Any and Every ML/DL project you have or want to implement
 
