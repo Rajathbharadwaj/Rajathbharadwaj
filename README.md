@@ -22,13 +22,13 @@
 
 <h1 align="center">
     <a href="http://alphazoneai.com/resume/" target="_blank" rel="noopener noreferrer">
-    Checkout -> Alphazone.ai
+     My Resume
     </a>
 </h1>
 
 
 
----
+
 
 
 <!-- Core Skills Section <p align="center">
@@ -42,13 +42,10 @@
 -->
 
 
----
+<!-- Languages Section -->
 
-<!-- Languages Section <p align="center">
-    <a href="https://github.com/satyajitghana/satyajitghana/blob/master/c-cpp.md">
-        <img src="https://img.shields.io/static/v1?logo=C%2B%2B&logoColor=violet&logoWidth=20&label=Language&labelColor=1d2021&message=C%20C%2B%2B&color=006266&style=for-the-badge">
-    </a>
-    <a href="https://github.com/satyajitghana/satyajitghana/blob/master/python.md">
+<p align="center">
+    <a href="https://github.com/Rajathbharadwaj/Rajathbharadwaj/blob/master/python.md">
         <img src="https://img.shields.io/static/v1?logo=Python&logoColor=violet&logoWidth=20&label=Language&labelColor=1d2021&message=Python&color=5f27cd&style=for-the-badge">
     </a>
     <a href="https://github.com/satyajitghana/satyajitghana/blob/master/javascript.md">
@@ -58,16 +55,20 @@
         <img src="https://img.shields.io/static/v1?logo=Haskell&logoColor=violet&logoWidth=20&label=Language&labelColor=1d2021&message=Haskell&color=EAB543&style=for-the-badge">
     </a>
 </p>
-## Packages i've developed
-https://github.com/satyajitghana/chocolatey-opencv
-## NPTEL Courses
-- https://github.com/satyajitghana/Medical-Image-Analysis
-- https://github.com/satyajitghana/OpenMP-Programming
+## Packages I've developed
+https://github.com/Rajathbharadwaj/Easy-Transformers
+
+## Projects (Useless :D)
+- [Play using AI](https://github.com/Rajathbharadwaj/NFS-Payback-AI)
+- [Spotify Adblocker](https://github.com/Rajathbharadwaj/spotifyadbypassv2)
+- [Mathematics Prediction](https://github.com/Rajathbharadwaj/Mathematics-prediction)
+
 ## Misc. Stuff
-- [Colab KeepAlive Extension](https://github.com/satyajitghana/colab-keepalive)
-- [My Dot Files](https://github.com/satyajitghana/my-dotfiles)
-- [Lambda Calculus](https://github.com/satyajitghana/LambdaCalculus)
-- [Workshops](https://github.com/satyajitghana/Workshops)
+- [MLDEVC Club](https://github.com/Rajathbharadwaj/MLDEVC---GitHub)
+- [MLDEVC Club Workshop Videos](https://www.youtube.com/watch?v=bnXgoohD-qQ&list=PLys6zG10g30777l-NqQwyoGPG6qVDSo9V)
+
+## YouTube Tuts
+- [Reinforcement Learning](https://www.youtube.com/watch?v=ctWVjUAfmZk&list=PLys6zG10g307RPEir4gB5P9TW1CXpvWD9)
 ---
 <p align="center">
     <img src="https://forthebadge.com/images/badges/made-with-python.svg">
@@ -75,7 +76,7 @@ https://github.com/satyajitghana/chocolatey-opencv
 
 
 
--->
+
 
 
 
