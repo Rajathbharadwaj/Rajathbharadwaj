@@ -42,7 +42,7 @@ https://github.com/Rajathbharadwaj/Easy-Transformers
 ## Projects (Useless :D)
 - [Play using AI](https://github.com/Rajathbharadwaj/NFS-Payback-AI)
 - [Spotify Adblocker](https://github.com/Rajathbharadwaj/spotifyadbypassv2)
-- [Mathematics Prediction](https://github.com/Rajathbharadwaj/Mathematics-prediction)
+- [Face Unlock](https://github.com/Rajathbharadwaj/Face-Unlock)
 
 ## Misc. Stuff
 - [MLDEVC Club](https://github.com/Rajathbharadwaj/MLDEVC---GitHub)
