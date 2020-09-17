@@ -3,9 +3,7 @@
     <h2>I make machines learn to learn from machines 💻</h2>
 </div>
 
-<p align="center">
-    <img src="#" />
-</p>
+
 
 <p align="center">
     <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
