@@ -27,34 +27,15 @@
 </h1>
 
 
-
-
-
-
-<!-- Core Skills Section <p align="center">
-    <a href="https://github.com/satyajitghana/satyajitghana/blob/master/cv_deeplearning.md">
-        <img src="https://img.shields.io/static/v1?logo=PyTorch&logoColor=violet&logoWidth=20&label=Core&labelColor=1d2021&message=Computer%20Vision-Deep%20Learning&color=1289A7&style=for-the-badge">
-    </a>
-    <a href="https://github.com/satyajitghana/satyajitghana/blob/master/competitive_programming.md">
-        <img src="https://img.shields.io/static/v1?logo=CodeChef&logoColor=violet&logoWidth=20&label=Core&labelColor=1d2021&message=Competitive%20Programming&color=05c46b&style=for-the-badge">
-    </a>
-</p>
--->
-
-
 <!-- Languages Section -->
 
 <p align="center">
     <a href="https://github.com/Rajathbharadwaj/Rajathbharadwaj/blob/master/python.md">
         <img src="https://img.shields.io/static/v1?logo=Python&logoColor=violet&logoWidth=20&label=Language&labelColor=1d2021&message=Python&color=5f27cd&style=for-the-badge">
     </a>
-    <a href="https://github.com/satyajitghana/satyajitghana/blob/master/javascript.md">
-        <img src="https://img.shields.io/static/v1?logo=JavaScript&logoColor=violet&logoWidth=20&label=Language&labelColor=1d2021&message=JavaScript&color=b33939&style=for-the-badge">
-    </a>
-    <a href="https://github.com/satyajitghana/satyajitghana/blob/master/haskell.md">
-        <img src="https://img.shields.io/static/v1?logo=Haskell&logoColor=violet&logoWidth=20&label=Language&labelColor=1d2021&message=Haskell&color=EAB543&style=for-the-badge">
-    </a>
+
 </p>
+
 ## Packages I've developed
 https://github.com/Rajathbharadwaj/Easy-Transformers
 
