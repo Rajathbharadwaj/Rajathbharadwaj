@@ -10,7 +10,7 @@
 </p>
 
 <font size="+1.5">
-I work on making ML Models, learning the math behind different algorithms RL is my Fav.
+<p align="center"> I work on making ML Models, learning the math behind different algorithms RL is my Fav.</p>
 </font>
 
 <p align="center">
