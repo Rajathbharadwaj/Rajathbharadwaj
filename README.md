@@ -58,3 +58,4 @@ https://github.com/Rajathbharadwaj/Easy-Transformers
 
 
 
+This has been inspired by my friend [Satyajit](https://github.com/satyajitghana)
