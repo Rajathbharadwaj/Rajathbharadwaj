@@ -21,7 +21,7 @@
 
 
 <h1 align="center">
-    <a href="http://alphazoneai.com/resume/" target="_blank" rel="noopener noreferrer">
+    <a href="https://drive.google.com/file/d/1ETm-b9wcRmqyFpCE-4vd94qaAPN4ltXl/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
      My Resume
     </a>
 </h1>
