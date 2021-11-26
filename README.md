@@ -27,7 +27,7 @@
 </h1>
 
 
-<!-- Languages Section -->
+<!-- Languages Section
 
 <p align="center">
     <a href="https://github.com/Rajathbharadwaj/Rajathbharadwaj/blob/master/python.md">
@@ -35,7 +35,7 @@
     </a>
 
 </p>
-
+ -->
 ## Packages I've developed
 https://github.com/Rajathbharadwaj/Easy-Transformers
 
@@ -52,10 +52,7 @@ https://github.com/Rajathbharadwaj/Easy-Transformers
 - [Reinforcement Learning](https://www.youtube.com/watch?v=ctWVjUAfmZk&list=PLys6zG10g307RPEir4gB5P9TW1CXpvWD9)
 
 
-<p align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-python.svg">
-</p>
 
 
 
-This has been inspired by my friend [Satyajit](https://github.com/satyajitghana)
+
