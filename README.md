@@ -13,10 +13,10 @@
 <p align="center"> I work on making ML Models, learning the math behind different algorithms RL is my Fav.</p>
 </font>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rajathbharadwaj&show_icons=true&title_color=83sFFF8&icon_color=FFDFf34&text_color=BBBBBB&bg_color=000000">
 </p>
-
+!-->
 ---
 
 
