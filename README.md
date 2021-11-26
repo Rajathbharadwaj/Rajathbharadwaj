@@ -18,10 +18,11 @@
 </p>
 !-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathbharadwaj&hide_border=true" />
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajathbharadwaj&hide_border=true" /> </p>
   
+<p align="center">
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajathbharadwaj&layout=compact&langs_count=8&theme=algolia"/>
----
+</p>
 
 
 <h1 align="center">
