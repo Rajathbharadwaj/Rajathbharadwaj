@@ -17,6 +17,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rajathbharadwaj&show_icons=true&title_color=83sFFF8&icon_color=FFDFf34&text_color=BBBBBB&bg_color=000000">
 </p>
 !-->
+
+<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rajathbharadwaj&hide_border=true" />
+  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajathbharadwaj&layout=compact&langs_count=8&theme=algolia"/>
 ---
 
 
