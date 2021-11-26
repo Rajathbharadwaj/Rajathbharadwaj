@@ -26,7 +26,7 @@
 
 
 <h1 align="center">
-    <a href="https://drive.google.com/file/d/1ETm-b9wcRmqyFpCE-4vd94qaAPN4ltXl/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+    <a href="https://drive.google.com/file/d/1NEtCdbXWWhradz4fifMX_2Gfj2NMFve7/view?usp=sharing" target="_blank" rel="noopener noreferrer">
      My Resume
     </a>
 </h1>
