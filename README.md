@@ -3,7 +3,7 @@
     <h2>I make machines learn to learn from machines 💻</h2>
 </div>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathbharadwaj)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rajathbharadwaj)] !-->
 
 <p align="center">
     <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
