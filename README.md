@@ -55,6 +55,7 @@ https://github.com/Rajathbharadwaj/Easy-Transformers
 
 ## YouTube Tuts
 - [Reinforcement Learning](https://www.youtube.com/watch?v=ctWVjUAfmZk&list=PLys6zG10g307RPEir4gB5P9TW1CXpvWD9)
+- [NeuralTalk](https://www.youtube.com/@neuraltalk)
 
 
 
