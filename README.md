@@ -41,7 +41,7 @@
 
 </p>
  -->
-## Packages I've developed
+## Experience
 Currently working at [OpenSesame](https://www.opensesame.dev)
 
 ## Want to minimize time to learning and get to production?
