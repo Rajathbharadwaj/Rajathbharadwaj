@@ -44,12 +44,6 @@
 ## Experience
 Currently working at [OpenSesame](https://www.opensesame.dev)
 
-## Want to minimize time to learning and get to production?
-### Check out [DocRAG](https://www.docrag.io)
-- Your all in one place stop to quickly get all your documentation questions answered.
-- Cross Reference from multiple docs to build apps
-- Production Ready Code outputted for your questions
-
 ## Projects (Useless :D)
 - [Play using AI](https://github.com/Rajathbharadwaj/NFS-Payback-AI)
 - [Spotify Adblocker](https://github.com/Rajathbharadwaj/spotifyadbypassv2)
