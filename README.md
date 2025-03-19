@@ -44,6 +44,8 @@
 ## Experience
 Currently working at [OpenSesame](https://www.opensesame.dev)
 
+Play around with my [Website](https://my-portfolio-taupe-two-60.vercel.app/)
+
 ## Projects (Useless :D)
 - [Play using AI](https://github.com/Rajathbharadwaj/NFS-Payback-AI)
 - [Spotify Adblocker](https://github.com/Rajathbharadwaj/spotifyadbypassv2)
