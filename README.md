@@ -35,7 +35,7 @@
 </p>
  -->
 ## Experience
-Currently working at [OpenSesame](https://www.opensesame.dev)
+Currently working at [Rootly](https://www.rootly.com)
 
 Play around with my [Website](https://my-portfolio-taupe-two-60.vercel.app/)
 
