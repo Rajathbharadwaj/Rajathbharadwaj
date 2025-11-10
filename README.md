@@ -35,7 +35,7 @@
 </p>
  -->
 ## Experience
-Currently working at [Rootly](https://www.rootly.com)
+Currently working on [Parallel Universe](https://www.paralleluniverse.ai)
 
 Play around with my [Website](https://my-portfolio-taupe-two-60.vercel.app/)
 
