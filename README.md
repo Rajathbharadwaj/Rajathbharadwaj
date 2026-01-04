@@ -35,7 +35,7 @@
 </p>
  -->
 ## Experience
-Currently working on [Parallel Universe](https://www.app.paralleluniverse.ai/landing)
+Currently working on [Parallel Universe](https://app.paralleluniverse.ai/landing)
 
 Play around with my [Website](https://my-portfolio-taupe-two-60.vercel.app/)
 
