@@ -39,17 +39,9 @@ Currently working on [Parallel Universe](https://app.paralleluniverse.ai/landing
 
 Play around with my [Website](https://my-portfolio-taupe-two-60.vercel.app/)
 
-## Projects (Useless :D)
-- [Play using AI](https://github.com/Rajathbharadwaj/NFS-Payback-AI)
-- [Spotify Adblocker](https://github.com/Rajathbharadwaj/spotifyadbypassv2)
-- [Face Unlock](https://github.com/Rajathbharadwaj/Face-Unlock)
 
-## Misc. Stuff
-- [MLDEVC Club](https://github.com/Rajathbharadwaj/MLDEVC---GitHub)
-- [MLDEVC Club Workshop Videos](https://www.youtube.com/watch?v=bnXgoohD-qQ&list=PLys6zG10g30777l-NqQwyoGPG6qVDSo9V)
 
 ## YouTube Tuts
-- [Reinforcement Learning](https://www.youtube.com/watch?v=ctWVjUAfmZk&list=PLys6zG10g307RPEir4gB5P9TW1CXpvWD9)
 - [NeuralTalk](https://www.youtube.com/@neuraltalk)
 
 
